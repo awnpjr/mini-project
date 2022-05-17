@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 28vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #efefef;
+  height: 100%;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+.main {
+  display: flex;
+  margin: 17.5% 17.5%;
+}
+.text-main {
+  margin-left: 5%;
+  text-align: left;
+  width: 100vh;
+}
+.text-main p {
+  font-family: sans-serif;
+  font-size: 3.25vh;
+  color: #205375;
+}
+.text-main p span {
+  color: #f66b0e;
+  font-weight: bold;
+}
+.text-main h3 span {
+  color: #f66b0e;
+}
+.text-main h3 {
+  margin-top: 0;
+  font-size: 5vh;
+  color: #112b3c;
+}
