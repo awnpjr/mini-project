@@ -1,5 +1,6 @@
 # mini-project_Awan-Pijar-Andika
 Project ini dibuat untuk memenuhi tugas mini project dari program studi independent di Alterra Academy. 
+
 Project ini dibuat dengan Tech Stack :
 1. Heroku
 2. Hasura
